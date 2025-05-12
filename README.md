@@ -1,7 +1,7 @@
 # NumberManipulation
 ## Overview
 
-The Number Manipulation Tool is a Desktop application that allows users to enter a list of numbers with the "Filtering odd numbers","Computing Number" and "Counting Duplicating Number" functions
+The Number Manipulation Tool is a Desktop application that allows users to enter a list of numbers with the "Filtering odd numbers", "Computing Number", and "Counting Duplicating Number" functions
 
 ## Functions
 
@@ -12,12 +12,11 @@ The Number Manipulation Tool is a Desktop application that allows users to enter
 
 ## User Interface
 
-Text box for entering numbers
-Radio buttons to select functions
-Compute button to execute the selected operation
-Clear button to reset the form
+- Text box for entering numbers
+- Radio buttons to select functions
+- Compute button to execute the selected operation
+- Clear button to reset the form
 
 ## Error Handling
 
 Displays warning messages when no numbers are entered or no function is selected
-Prevents non-numeric input
