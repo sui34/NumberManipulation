@@ -1,0 +1,16 @@
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\bin\Debug\net8.0-windows\ComputingNumbers.exe
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\bin\Debug\net8.0-windows\ComputingNumbers.deps.json
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\bin\Debug\net8.0-windows\ComputingNumbers.runtimeconfig.json
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\bin\Debug\net8.0-windows\ComputingNumbers.dll
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\bin\Debug\net8.0-windows\ComputingNumbers.pdb
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.numberManipulationForm.resources
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.csproj.GenerateResource.cache
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.AssemblyInfoInputs.cache
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.AssemblyInfo.cs
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.csproj.CoreCompileInputs.cache
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.dll
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\refint\ComputingNumbers.dll
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.pdb
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ComputingNumbers.genruntimeconfig.cache
+D:\仕事Stuff\2025 Singapore and Thailand\2025 Code Test\Singapore\ComputingNumbers\obj\Debug\net8.0-windows\ref\ComputingNumbers.dll
