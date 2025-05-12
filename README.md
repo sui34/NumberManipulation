@@ -5,10 +5,10 @@ The Number Manipulation Tool is a Desktop application that allows users to enter
 
 ## Functions
 
-List Odd Numbers: Filter and display only odd numbers from the list
-Count Duplicates: Identify and display numbers that appear more than once
-Sum: Calculate the sum of all numbers in the list
-Clear: Reset all inputs and selections
+1. List Odd Numbers: Filter and display only odd numbers from the list
+2. Count Duplicates: Identify and display numbers that appear more than once
+3. Sum: Calculate the sum of all numbers in the list
+4. Clear: Reset all inputs and selections
 
 ## User Interface
 
